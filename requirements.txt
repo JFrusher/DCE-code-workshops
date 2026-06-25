@@ -1,0 +1,10 @@
+numpy
+pandas
+pathlib
+matplotlib
+plotly
+nbformat>=4.2.0
+shap
+scipy
+sklearn
+re
